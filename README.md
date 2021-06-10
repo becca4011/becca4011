@@ -8,6 +8,9 @@
   #### 💬 Solved.ac 프로필
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=becca4011)](https://solved.ac/becca4011)
   
+  #### ⌨ 사용 언어
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becca4011&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
 </div>
 
 <!--
