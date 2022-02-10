@@ -1,12 +1,18 @@
 <div>
 
-  ## 😊 Profile 👋
+  ## 😊 Becca 👋
 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbecca4011&count_bg=%236737CE&title_bg=%23181717&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <a href="https://becca-codingdiary.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF8D8D?style=round-square"/></a>
   
-  #### 💙 방문자
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbecca4011&count_bg=%23577FDF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-  #### 💬 Solved.ac 프로필
+  #### 🌱 Learning
+  <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=round-square&logo=Spring Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=round-square&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=Figma&logoColor=white"/>
+  
+  #### ✨ Solved.ac
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=becca4011)](https://solved.ac/becca4011)
   
 </div>
