@@ -7,6 +7,7 @@
   
   #### 🌱 Learning
   <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=round-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=round-square&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=round-square&logo=Vue.js&logoColor=white"/>
